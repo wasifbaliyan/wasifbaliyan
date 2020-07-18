@@ -1,6 +1,7 @@
 Hey there!
 ### I'm Wasif Baliyan.
-I build things for the internet.\n
+**I build things for the internet.**
+
 Thanks for stopping by.
 
 
