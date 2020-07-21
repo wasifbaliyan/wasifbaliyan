@@ -1,6 +1,6 @@
 <div style="background: #eee;">
     <div>
-        <h5>Hey there!</h5>
+        <h5 style="color: red;">Hey there!</h5>
         <h1>I'm Wasif Baliyan.</h1>
         <p>I build things for the internet.<p>
         <p>Thanks for stopping by.</p>
