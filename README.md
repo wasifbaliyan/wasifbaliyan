@@ -1,9 +1,12 @@
-<div style="background: #eee;">
+<div>
     <div>
-        <h5 style="color: red;">Hey there!</h5>
+        <h5>Hey there!</h5>
         <h1>I'm Wasif Baliyan.</h1>
-        <p>I build things for the internet.<p>
+        <p><em>I build things for the internet.</em<p>
         <p>Thanks for stopping by.</p>
+        <p>
+            Get in touch<a href="https://wasifbaliyan.github.io">wasifbaliyan</a>
+        </p>
     </div>
 </div>
 
