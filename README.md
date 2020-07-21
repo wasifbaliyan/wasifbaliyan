@@ -1,4 +1,4 @@
-<div style="background: #eee; height: 30vh;">
+<div style="background: #eee;">
     <div>
         <h5>Hey there!</h5>
         <h1>I'm Wasif Baliyan.</h1>
