@@ -24,8 +24,6 @@ Get in touch [wasifbaliyan](https://wasifbaliyan.github.io) -->
 
 #### I'm a Full stack web developer.
 
-![Full stack web developer.](https://raw.githubusercontent.com/wasifbaliyan/wasifbaliyan/master/reame-image.jpg)
-
 I build things for the internet.
 
 Skills: REACT / NODE / MONGODB / JS / HTML / CSS
