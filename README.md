@@ -20,9 +20,9 @@ Thanks for stopping by.
 
 Get in touch [wasifbaliyan](https://wasifbaliyan.github.io) -->
 
-### Hi there 👋, my name is Wasif Baliyan.
+## Hi there 👋, my name is Wasif Baliyan.
 
-#### Full stack web developer.
+#### I'm a Full stack web developer.
 
 ![Full stack web developer.](https://raw.githubusercontent.com/wasifbaliyan/wasifbaliyan/master/reame-image.jpg)
 
