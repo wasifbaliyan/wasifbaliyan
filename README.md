@@ -24,7 +24,7 @@ Get in touch [wasifbaliyan](https://wasifbaliyan.github.io) -->
 
 #### Full stack web developer.
 
-![Full stack web developer.](./reame-image.jpg)
+![Full stack web developer.](https://raw.githubusercontent.com/wasifbaliyan/wasifbaliyan/master/reame-image.jpg)
 
 I build things for the internet.
 
