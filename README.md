@@ -6,7 +6,7 @@
 
 I build things for the internet.
 
-**_Skills: ReactJS / GatsbyJS / NodeJS / MONGODB / JavaScript / HTML5 / CSS3_**
+**_Skills: ReactJS / GatsbyJS / NodeJS / MongoDB / ExpressJS / JavaScript / HTML5 / CSS3_**
 
 <div>🔭 I’m currently working on Freelancing projects.</div>
 
