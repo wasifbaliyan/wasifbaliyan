@@ -2,7 +2,7 @@
 
 # I'm Wasif Baliyan.
 
-#### I'm a Full stack web developer.
+#### Fullstack Web Developer
 
 I build things for the internet.
 
