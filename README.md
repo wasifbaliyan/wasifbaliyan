@@ -5,4 +5,4 @@ If you want to know more about me here is the link of my [portfolio](https://was
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wasifbaliyantheme=radical&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wasifbaliyan&theme=radical&show_icons=true)
