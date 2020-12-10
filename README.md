@@ -1,22 +1,7 @@
-#### Hi there 👋.
+![Wasif Baliyan](./linkedin-header.png)
 
-![I like to build cool shit](./linkedin-header.png)
-
-# I'm Wasif Baliyan.
-
-#### Fullstack Web Developer
-
-I build things for the internet.
-
-**_Skills: ReactJS / GatsbyJS / NodeJS / MongoDB / ExpressJS / JavaScript / HTML5 / CSS3_**
-
-<div>🔭 I’m currently working on Freelancing projects.</div>
-
-<div>🌱 I’m currently learning GraphQL and Redux.</div>
-<br/>
-<br/>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wasifbaliyan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wasifbaliyan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wasifbaliyan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/wasifbaliyan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wasifbaliyan.com)
+> Hi y'all. Thank you for taking to visit my github profile. My name is wasif baliyan. I am full-stack web developer focusing on the forntend stuff. I am currently living New Delhi, India.
+> If you want to know more about me here is the link of my [portfolio](https://wasifbaliyan.com). I am mostly active on [twitter](https://twitter.com/wasifbaliyan) feel free to connect with me there.
 
 <br/>
 
