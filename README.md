@@ -1,5 +1,7 @@
 #### Hi there 👋.
 
+![I like to build cool shit](./linkedin-header.png)
+
 # I'm Wasif Baliyan.
 
 #### Fullstack Web Developer
