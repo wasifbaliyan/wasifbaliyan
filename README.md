@@ -5,4 +5,4 @@ If you want to know more about me here is the link to my [portfolio](https://was
 
 <br/>
 
-[![Wasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasifbaliyan)](https://github.com/wasifbaliyan/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wasifbaliyan&theme=tokyonight)](https://git.io/streak-stats)
