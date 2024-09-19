@@ -14,4 +14,4 @@ If you want to know more about me here is the link to my [portfolio](https://was
 
 <br/>
 
-<a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
+<a href="https://github.com/wasifbaliyan?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifbaliyan&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/></a>
