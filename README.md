@@ -5,4 +5,13 @@ If you want to know more about me here is the link to my [portfolio](https://was
 
 <br/>
 
+<!-- Profile Visits -->
+![](https://komarev.com/ghpvc/?username=wasifbaliyan&color=brightgreen)
+
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=wasifbaliyan&theme=tokyonight)](https://git.io/streak-stats)
+
+<br/>
+
+<a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynil1611&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
