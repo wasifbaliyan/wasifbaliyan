@@ -10,6 +10,6 @@ If you want to know more about me here is the link to my [portfolio](https://was
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wasifbaliyan&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=wasifbaliyan&theme=tokyonight)](https://git.io/streak-stats) -->
 
 
